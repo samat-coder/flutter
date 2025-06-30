@@ -1,0 +1,2 @@
+# Assignment_flutter_module_3
+"This is an assignment for Module 3: Introduction to Flutter Widgets and UI Components, which includes basic widgets, layout widgets, buttons and user interactions, images and media, forms and user input, navigation and routing, lists and scrolling, stack and positioned widgets, animations and transitions, state management with Provider, and custom widgets. The theory section is already written."
